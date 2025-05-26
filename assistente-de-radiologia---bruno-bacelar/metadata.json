@@ -1,0 +1,6 @@
+{
+  "name": "Assistente de Radiologia - Bruno Bacelar",
+  "description": "Uma aplicação web interativa que usa o Gemini para analisar imagens radiológicas com base em prompts do usuário, gera um laudo textual e converte o laudo em fala usando o TTS Nativo do Gemini. Esta é uma adaptação de uma demonstração baseada em Python, usando Gemini para funcionalidades de imagem para texto e texto para fala.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
