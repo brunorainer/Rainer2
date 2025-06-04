@@ -1,0 +1,2 @@
+run = "npm run dev --prefix assistente-de-radiologia---bruno-bacelar"
+install = "npm install --prefix assistente-de-radiologia---bruno-bacelar"
